@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 - :computer: 7mo Semestre de Ing. en Sistemas en el ITT 
