@@ -2,6 +2,8 @@
 
 
 - :computer: 7mo Semestre de Ing. en Sistemas en el ITT 
+- :file_folder: Especialidad en Bases de Datos
+- :book: Aprendiendo todos los días
 
 
 ## Horario escolar Ago-Dic 2021
