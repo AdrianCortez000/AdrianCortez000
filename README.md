@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 7mo Semestre de Ing. en Sistemas en el ITT 
+- :computer: 7mo Semestre de Ing. en Sistemas en el ITT 
 
 
 ## Horario escolar Ago-Dic 2021
